@@ -13,4 +13,7 @@ We expect all contributors to adhere to the [Contributor Covenant](https://www.c
 5. Push your branch to your fork.
 6. Submit a pull request detailing your changes.
 
+## Reporting Issues
+If you encounter any bugs or have suggestions for improvements, please report them by creating a new issue in this repository. When reporting an issue, provide as much detail as possible to help us understand and address the problem effectively.
+
 Thank you for helping improve Code Simplicity Checker!
