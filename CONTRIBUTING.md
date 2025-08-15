@@ -1,0 +1,15 @@
+# Contributing to Code Simplicity Checker
+
+Thank you for your interest in contributing to the Code Simplicity Checker project! Please follow these guidelines for submitting contributions.
+
+## Code of Conduct
+We expect all contributors to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) Code of Conduct. Please be respectful and considerate towards others.
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your fork.
+5. Submit a pull request detailing your changes.
+
+Thank you for helping improve Code Simplicity Checker!
