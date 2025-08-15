@@ -9,7 +9,8 @@ We expect all contributors to adhere to the [Contributor Covenant](https://www.c
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with clear messages.
-4. Push your branch to your fork.
-5. Submit a pull request detailing your changes.
+4. Test your changes to ensure they work correctly. Consider adding unit tests if applicable.
+5. Push your branch to your fork.
+6. Submit a pull request detailing your changes.
 
 Thank you for helping improve Code Simplicity Checker!
