@@ -13,6 +13,9 @@ We expect all contributors to adhere to the [Contributor Covenant](https://www.c
 5. Push your branch to your fork.
 6. Submit a pull request detailing your changes.
 
+## Coding Standards
+Please ensure your code adheres to the project’s coding standards. This includes following the established formatting rules and documentation practices to maintain code quality and readability.
+
 ## Reporting Issues
 If you encounter any bugs or have suggestions for improvements, please report them by creating a new issue in this repository. When reporting an issue, provide as much detail as possible to help us understand and address the problem effectively.
 
